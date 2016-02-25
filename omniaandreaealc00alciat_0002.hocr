@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./omniaandreaealc00alciat_0002.png"; bbox 0 0 1814 3047; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 623 656 1229 815">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 623 656 1229 815">
+     <span class='ocr_line' id='line_1_1' title="bbox 1145 714 1229 815"><span class='ocrx_word' id='word_1_1' title='bbox 1145 714 1229 815; x_wconf 53' lang='lat' dir='ltr'>sm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 929 656 1037 813; baseline -14.273 14.273"><span class='ocrx_word' id='word_1_2' title='bbox 929 656 1037 813; x_wconf 51' lang='grc' dir='ltr'>ααω</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 840 657 926 813"><span class='ocrx_word' id='word_1_3' title='bbox 840 657 926 813; x_wconf 43' lang='lat' dir='ltr'>wwwff</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 623 713 722 811"><span class='ocrx_word' id='word_1_4' title='bbox 623 713 722 811; x_wconf 47' lang='lat' dir='ltr'>ww</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1814 3044">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1814 3044">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1814 3044"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1814 3044; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
